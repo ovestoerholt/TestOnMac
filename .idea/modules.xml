@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestOnMac/TestOnMac.iml" filepath="$PROJECT_DIR$/TestOnMac/TestOnMac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOnMacProject.iml" filepath="$PROJECT_DIR$/TestOnMacProject.iml" />
+    </modules>
+  </component>
+</project>
+
